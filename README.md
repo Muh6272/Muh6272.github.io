@@ -33,6 +33,54 @@ Python is my go-to for everything from quick scripts to full-scale data pipeline
 
 ---
 
+<details>
+<summary>📘 **Python Topics** (Click to Expand)</summary>
+
+<details>
+<summary>Basics </summary>
+
+##### **Math Operators**
+From highest to lowest precedence:
+
+| Operators | Operation          | Example        |
+|-----------|--------------------|----------------|
+| `**`      | Exponent           | `2 ** 3 = 8`   |
+| `%`       | Modulus/Remainder  | `22 % 8 = 6`   |
+| `//`      | Integer division   | `22 // 8 = 2`  |
+| `/`       | Division           | `22 / 8 = 2.75`|
+| `*`       | Multiplication     | `3 * 3 = 9`    |
+| `-`       | Subtraction        | `5 - 2 = 3`    |
+| `+`       | Addition           | `2 + 2 = 4`    |
+- Built-in functions  
+- Control flow  
+- Functions  
+- Lists and Tuples  
+- Dictionaries  
+- Sets  
+- Comprehensions  
+- Manipulating strings  
+- String formatting  
+- Regular expressions  
+- Files and directory paths  
+- Reading and writing files  
+- JSON and YAML  
+- Exception handling  
+- Debugging  
+- Args and Kwargs  
+- Decorators  
+- Context manager  
+- OOP (Object-Oriented Programming)  
+- Dataclasses
+
+</details>
+
+---
+
+This approach makes your section more interactive and organized, allowing visitors to expand and view the content only if they're interested in diving deeper. Let me know if you need further assistance! 😊
+
+
+---
+
 ## 🗄️ SQL  
 
 **✨ Overview:**  
