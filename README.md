@@ -6,7 +6,7 @@
 
 Welcome to my **GitHub Pages site** built using the repository’s `README.md`. This page showcases my skills and projects in several key areas:
 
-- - [Python](#python)
+- [Python](#python)
 - [SQL](#sql)
 - [Project Management](#project-management)
 - [Business Analysis & Scrum](#business-analysis--scrum)
