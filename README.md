@@ -87,4 +87,13 @@ AI enables innovative solutions in data processing, automation, and decision-mak
 ## 📬 Contact  
 
 <p align="center">
-  �
+  📞 **Muhannad Abbas**  
+  📱 **Phone**: 571.241.8255  
+  💌 **Email**: [Mohabbas20017@gmail.com](mailto:Mohabbas20017@gmail.com)  
+  🔗 **LinkedIn**: https://www.linkedin.com/in/moabbas1/
+</p>
+
+---
+
+🌈 **Thanks for visiting!**  
+Feel free to explore my repositories and connect for collaborations or inquiries. 💡
