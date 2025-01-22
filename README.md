@@ -7,7 +7,7 @@
 </p>
 
 🎉 **Welcome!** 🎉  
-This is my **GitHub Pages site**, showcasing my skills and projects in key areas of technology and business:
+This is my **GitHub Pages site (Muhannad Abbas)**, showcasing my skills and projects in key areas of technology and business:
 
 ---
 
