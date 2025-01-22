@@ -37,7 +37,7 @@ Python is my go-to for everything from quick scripts to full-scale data pipeline
 <summary>📘 **Python Topics** (Click to Expand)</summary>
 
 <details>
-<summary>Basics </summary>
+<summary>Basics</summary>
 
 ##### **Math Operators**
 From highest to lowest precedence:
@@ -51,28 +51,111 @@ From highest to lowest precedence:
 | `*`       | Multiplication     | `3 * 3 = 9`    |
 | `-`       | Subtraction        | `5 - 2 = 3`    |
 | `+`       | Addition           | `2 + 2 = 4`    |
-- Built-in functions  
-- Control flow  
-- Functions  
-- Lists and Tuples  
-- Dictionaries  
-- Sets  
-- Comprehensions  
-- Manipulating strings  
-- String formatting  
-- Regular expressions  
-- Files and directory paths  
-- Reading and writing files  
-- JSON and YAML  
-- Exception handling  
-- Debugging  
-- Args and Kwargs  
-- Decorators  
-- Context manager  
-- OOP (Object-Oriented Programming)  
-- Dataclasses
 
 </details>
+
+<details>
+<summary>Built-in Functions</summary>
+Expand to explore Python's built-in functions like `len()`, `type()`, `range()`, and many more!
+</details>
+
+<details>
+<summary>Control Flow</summary>
+Expand to explore Python control flow structures like `if`, `elif`, `else`, loops (`for`, `while`), and more.
+</details>
+
+<details>
+<summary>Functions</summary>
+Expand to dive into defining, calling, and working with Python functions, including **arguments**, **return values**, and **lambda** functions.
+</details>
+
+<details>
+<summary>Lists and Tuples</summary>
+Expand to learn about lists and tuples, including indexing, slicing, iteration, and advanced operations.
+</details>
+
+<details>
+<summary>Dictionaries</summary>
+Expand to explore Python dictionaries, including adding, removing, and accessing key-value pairs.
+</details>
+
+<details>
+<summary>Sets</summary>
+Expand to understand Python sets, including union, intersection, and difference operations.
+</details>
+
+<details>
+<summary>Comprehensions</summary>
+Expand to master list comprehensions, dictionary comprehensions, and set comprehensions.
+</details>
+
+<details>
+<summary>Manipulating Strings</summary>
+Expand to learn string methods for manipulation, such as `split()`, `join()`, and `replace()`.
+</details>
+
+<details>
+<summary>String Formatting</summary>
+Expand to explore Python string formatting techniques like f-strings and `format()`.
+</details>
+
+<details>
+<summary>Regular Expressions</summary>
+Expand to learn about pattern matching and text manipulation using the `re` module.
+</details>
+
+<details>
+<summary>Files and Directory Paths</summary>
+Expand to work with file and directory paths using Python's `os` and `pathlib` modules.
+</details>
+
+<details>
+<summary>Reading and Writing Files</summary>
+Expand to learn about reading from and writing to files using Python.
+</details>
+
+<details>
+<summary>JSON and YAML</summary>
+Expand to explore working with structured data using `json` and `yaml` libraries.
+</details>
+
+<details>
+<summary>Exception Handling</summary>
+Expand to learn how to handle errors gracefully using `try`, `except`, and `finally`.
+</details>
+
+<details>
+<summary>Debugging</summary>
+Expand to dive into debugging techniques using Python’s `pdb` module and other tools.
+</details>
+
+<details>
+<summary>Args and Kwargs</summary>
+Expand to understand how `*args` and `**kwargs` work in Python functions.
+</details>
+
+<details>
+<summary>Decorators</summary>
+Expand to explore how Python decorators enhance functionality.
+</details>
+
+<details>
+<summary>Context Manager</summary>
+Expand to learn about Python's `with` statement for resource management.
+</details>
+
+<details>
+<summary>OOP (Object-Oriented Programming)</summary>
+Expand to dive into classes, objects, inheritance, polymorphism, and encapsulation in Python.
+</details>
+
+<details>
+<summary>Dataclasses</summary>
+Expand to explore Python's `dataclass` module for creating structured data objects.
+</details>
+
+</details>
+
 
 ---
 
