@@ -56,7 +56,11 @@ From highest to lowest precedence:
 
 <details>
 <summary>Built-in Functions</summary>
-Expand to explore Python's built-in functions like `len()`, `type()`, `range()`, and many more!
+String: 
+Numbers:
+Input: 
+
+
 </details>
 
 <details>
@@ -66,7 +70,9 @@ Expand to explore Python control flow structures like `if`, `elif`, `else`, loop
 
 <details>
 <summary>Functions</summary>
-Variable: container to hold data, which can later be used or modified, must start with letter or an underscore (example name ="Moe")
+Variable: container to hold data, which can later be used or modified, must start with letter or an underscore (Example: name ="Moe")
+List: Collection of items. It can hold elements of any data type and can access a list using the index (Example: fruits = ["apple", "banana", "cherry"] )
+Tuples: similar to lists, but they cannot be modified after creation (Example: fruits = ("apple", "banana", "cherry"))
 </details>
 
 <details>
