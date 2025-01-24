@@ -70,7 +70,9 @@ Expand to explore Python control flow structures like `if`, `elif`, `else`, loop
 
 <details>
 <summary>Functions</summary>
+Funcation: s a block of reusable code that performs a specific task
 Variable: container to hold data, which can later be used or modified, must start with letter or an underscore (Example: name ="Moe")
+Conditionals: Allow you to execute code based on specific conditions (Example: 
 List: Collection of items. It can hold elements of any data type and can access a list using the index (Example: fruits = ["apple", "banana", "cherry"] )
 Tuples: similar to lists, but they cannot be modified after creation (Example: fruits = ("apple", "banana", "cherry"))
 </details>
