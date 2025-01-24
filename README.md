@@ -66,7 +66,7 @@ Expand to explore Python control flow structures like `if`, `elif`, `else`, loop
 
 <details>
 <summary>Functions</summary>
-Expand to dive into defining, calling, and working with Python functions, including **arguments**, **return values**, and **lambda** functions.
+Variable: container to hold data, which can later be used or modified, must start with letter or an underscore (example name ="Moe")
 </details>
 
 <details>
