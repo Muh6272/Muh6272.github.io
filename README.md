@@ -64,6 +64,14 @@ Input:
 </details>
 
 <details>
+<summary>Data Type</summary>
+list: 
+Set: 
+Tuples:
+Dictionary: 
+</details>
+
+<details>
 <summary>Control Flow</summary>
 Expand to explore Python control flow structures like `if`, `elif`, `else`, loops (`for`, `while`), and more.
 </details>
