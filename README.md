@@ -79,7 +79,10 @@ Tuples: similar to lists, but they cannot be modified after creation (Example: f
 
 <details>
 <summary>Lists and Tuples</summary>
-Expand to learn about lists and tuples, including indexing, slicing, iteration, and advanced operations.
+list: 
+Set: 
+Tuples:
+Dictionary: 
 </details>
 
 <details>
