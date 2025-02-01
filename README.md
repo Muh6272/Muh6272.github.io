@@ -65,10 +65,10 @@ Input:
 
 <details>
 <summary>Data Type</summary>
-list: 
-Set: 
-Tuples:
-Dictionary: 
+List: Ordered, mutable, allows duplicates. ["apple", "banana", "cherry"]
+Tuple: Ordered, immutable, allows duplicates. ("apple", "banana", "cherry")
+Set: Unordered, mutable, no duplicates. {"apple", "banana", "cherry"}
+Dictionary: Key-value pairs, ordered (Python 3.7+), mutable. {"name": "Moe", "age": 30}
 </details>
 
 <details>
