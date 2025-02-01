@@ -56,10 +56,10 @@ From highest to lowest precedence:
 
 <details>
 <summary>Built-in Functions</summary>
-String: 
+- **String**: 
 Numbers:
 Input: 
-
+Variable:
 
 </details>
 
@@ -83,9 +83,9 @@ Input:
 
 <details>
 <summary>Control Flow</summary>
-  -**statement**: if, elif`, `else`
-  -**loops**: (`for`, `while`), and more.
-  -**While loops**: 
+  - **statement**: if, elif`, `else`
+  - **loops**: (`for`, `while`), and more.
+  - **While loops**: 
 </details>
 
 <details>
