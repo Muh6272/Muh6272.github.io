@@ -69,14 +69,16 @@ Input:
   - **List**: Ordered, mutable, allows duplicates.  
     `["apple", "banana", "cherry"]`  
 
-  - **Tuple**: Ordered, immutable, allows duplicates.  
-    `("apple", "banana", "cherry")`  
+  - **Tuples**: Ordered, immutable, allows duplicates.  
+    `("apple", "banana", "cherry")`
+  - **Rules (Tuples)**: print only unique value, memory efficient 
 
   - **Set**: Unordered, mutable, no duplicates.  
     `{"apple", "banana", "cherry"}`  
 
   - **Dictionary**: Key-value pairs, ordered (Python 3.7+), mutable.  
     `{"name": "Moe", "age": 30}`
+  - **Rules (Set and Dictionaries)**: Curly brackets, Unique value, order doesn't matter
 </details>
 
 <details>
