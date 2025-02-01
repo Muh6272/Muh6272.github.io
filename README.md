@@ -83,7 +83,9 @@ Input:
 
 <details>
 <summary>Control Flow</summary>
-Expand to explore Python control flow structures like `if`, `elif`, `else`, loops (`for`, `while`), and more.
+  -**statement**: if, elif`, `else`
+  -**loops**: (`for`, `while`), and more.
+  -**While loops**: 
 </details>
 
 <details>
