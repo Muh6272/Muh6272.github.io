@@ -56,8 +56,9 @@ From highest to lowest precedence:
 
 <details>
 <summary>Built-in Functions</summary>
-- **Class**: 
-- **Funcation**: 
+  
+- **Class**: Used to create objects that encapsulate data and behavior
+- **Funcation**: Reusable blocks of code
 - **Variable**: used to store data, and each variable has a data type 
 
 </details>
