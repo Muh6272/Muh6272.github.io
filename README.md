@@ -83,31 +83,10 @@ From highest to lowest precedence:
 
 <details>
 <summary>Control Flow</summary>
+  
   - **statement**: if, elif`, `else`
   - **loops**: Iterates over a sequence
   - **While loops**: Repeats while a condition is true
-</details>
-
-<details>
-<summary>Functions</summary>
-Funcation: s a block of reusable code that performs a specific task
-Variable: container to hold data, which can later be used or modified, must start with letter or an underscore (Example: name ="Moe")
-Conditionals: Allow you to execute code based on specific conditions (Example: 
-List: Collection of items. It can hold elements of any data type and can access a list using the index (Example: fruits = ["apple", "banana", "cherry"] )
-Tuples: similar to lists, but they cannot be modified after creation (Example: fruits = ("apple", "banana", "cherry"))
-</details>
-
-<details>
-<summary>Lists and Tuples</summary>
-list: 
-Set: 
-Tuples:
-Dictionary: 
-</details>
-
-<details>
-<summary>Dictionaries</summary>
-Expand to explore Python dictionaries, including adding, removing, and accessing key-value pairs.
 </details>
 
 <details>
