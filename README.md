@@ -71,14 +71,14 @@ From highest to lowest precedence:
 
   - **Tuples**: is like a list but cannot be modified after creation. 
     `("apple", "banana", "cherry")`
-  - **Rules (Tuples)**: print only unique value, memory efficient 
+        **Rules (Tuples)**: print only unique value, memory efficient 
 
   - **Set**: is a collection of unique items.  
     `{"apple", "banana", "cherry"}`  
 
   - **Dictionary**: Stores data as key-value pairs. 
     `{"name": "Moe", "age": 30}`
-  - **Rules (Set and Dictionaries)**: Curly brackets, Unique value, order doesn't matter
+        **Rules (Set and Dictionaries)**: Curly brackets, Unique value, order doesn't matter
 </details>
 
 <details>
