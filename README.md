@@ -59,24 +59,24 @@ From highest to lowest precedence:
 - **String**: 
 Numbers:
 Input: 
-Variable:
+Variable: used to store data, and each variable has a data type 
 
 </details>
 
 <details>
-<summary>Data Type</summary>
+<summary>Data Structures</summary>
 
-  - **List**: Ordered, mutable, allows duplicates.  
+  - **List**: Stores multiple items in an ordered sequence and allows modifications. 
     `["apple", "banana", "cherry"]`  
 
-  - **Tuples**: Ordered, immutable, allows duplicates.  
+  - **Tuples**: is like a list but cannot be modified after creation. 
     `("apple", "banana", "cherry")`
   - **Rules (Tuples)**: print only unique value, memory efficient 
 
-  - **Set**: Unordered, mutable, no duplicates.  
+  - **Set**: is a collection of unique items.  
     `{"apple", "banana", "cherry"}`  
 
-  - **Dictionary**: Key-value pairs, ordered (Python 3.7+), mutable.  
+  - **Dictionary**: Stores data as key-value pairs. 
     `{"name": "Moe", "age": 30}`
   - **Rules (Set and Dictionaries)**: Curly brackets, Unique value, order doesn't matter
 </details>
