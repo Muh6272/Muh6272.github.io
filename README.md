@@ -84,8 +84,8 @@ Variable: used to store data, and each variable has a data type
 <details>
 <summary>Control Flow</summary>
   - **statement**: if, elif`, `else`
-  - **loops**: (`for`, `while`), and more.
-  - **While loops**: 
+  - **loops**: Iterates over a sequence
+  - **While loops**: Repeats while a condition is true
 </details>
 
 <details>
