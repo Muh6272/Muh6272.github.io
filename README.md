@@ -79,6 +79,7 @@ From highest to lowest precedence:
   - **Dictionary**: Stores data as key-value pairs. 
     `{"name": "Moe", "age": 30}`
         **Rules (Set and Dictionaries)**: Curly brackets, Unique value, order doesn't matter
+  - **List Comprehensions**: List comprehension is a concise, efficient, and readable way to create lists in Python. Instead of using for loops, it allows you to generate lists in a single line of code. new_list = [expression for item in iterable if condition]
 </details>
 
 <details>
