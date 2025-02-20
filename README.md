@@ -56,10 +56,9 @@ From highest to lowest precedence:
 
 <details>
 <summary>Built-in Functions</summary>
-- **String**: 
-Numbers:
-Input: 
-Variable: used to store data, and each variable has a data type 
+- **Class**: 
+- **Funcation**: 
+- **Variable**: used to store data, and each variable has a data type 
 
 </details>
 
