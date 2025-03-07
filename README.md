@@ -90,39 +90,10 @@ From highest to lowest precedence:
   - **While loops**: Repeats while a condition is true
 </details>
 
-<details>
-<summary>Sets</summary>
-Expand to understand Python sets, including union, intersection, and difference operations.
-</details>
-
-<details>
-<summary>Comprehensions</summary>
-Expand to master list comprehensions, dictionary comprehensions, and set comprehensions.
-</details>
-
-<details>
-<summary>Manipulating Strings</summary>
-Expand to learn string methods for manipulation, such as `split()`, `join()`, and `replace()`.
-</details>
-
-<details>
-<summary>String Formatting</summary>
-Expand to explore Python string formatting techniques like f-strings and `format()`.
-</details>
 
 <details>
 <summary>Regular Expressions</summary>
 Expand to learn about pattern matching and text manipulation using the `re` module.
-</details>
-
-<details>
-<summary>Files and Directory Paths</summary>
-Expand to work with file and directory paths using Python's `os` and `pathlib` modules.
-</details>
-
-<details>
-<summary>Reading and Writing Files</summary>
-Expand to learn about reading from and writing to files using Python.
 </details>
 
 <details>
