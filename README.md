@@ -139,6 +139,13 @@ Expand to explore Python's `dataclass` module for creating structured data objec
 
 </details>
 
+---
+
+<details>
+<summary>📘 **Power Bi Topics** (Click to Expand)</summary>
+
+<details>
+<summary>Basics</summary>
 
 ---
 
@@ -169,14 +176,6 @@ Python is my go-to for everything from quick scripts to full-scale data pipeline
 - **Machine Learning** with [scikit-learn](https://scikit-learn.org/) and [TensorFlow](https://www.tensorflow.org/)  
 - **Automation Scripts** for productivity  
 - **Web Development** with [Flask](https://flask.palletsprojects.com/) and [Django](https://www.djangoproject.com/)
-
----
-
-<details>
-<summary>📘 **Power Bi Topics** (Click to Expand)</summary>
-
-<details>
-<summary>Basics</summary>
 
 ---
 
