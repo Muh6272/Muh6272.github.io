@@ -148,7 +148,7 @@ Expand to explore Python's `dataclass` module for creating structured data objec
 <summary>Basics & Offerings</summary>
   Power BI: A collection of software, services, Apps and Connectors. 
     Power BI Building: 
-      * Data set: A collection of data imported from various sources 
+  - **Data set**: A collection of data imported from various sources 
       * Dashbaord: A single page high level summary view 
       * Tile: A single visualization 
     Power Bi Tools: 
