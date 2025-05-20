@@ -159,6 +159,15 @@ Expand to explore Python's `dataclass` module for creating structured data objec
       * Power BI Desktop 
       * Power BI Service/Online
       * Power BI Mobile 
+  Power BI Storage Mode 
+  benfit of parameters and PBIDS File in power BI (power Quary)
+
+  Shape The initial data: from raw data into a format data that can be anallysis and visalization 
+      * Data cleaning 
+      * Data transformation 
+  
+  
+ 
   
 </details>
 
