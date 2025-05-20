@@ -13,7 +13,8 @@ This is my **GitHub Pages site (Muhannad Abbas)**, showcasing my skills and proj
 
 ## 🎯 Quick Links  
 - [Python](#python)  
-- [SQL](#sql)  
+- [SQL](#sql)
+- [Power Bi](#PowerBi)
 - [Project Management](#project-management)  
 - [Business Analysis & Scrum](#business-analysis--scrum)  
 - [AI](#ai)
@@ -156,6 +157,26 @@ SQL is the backbone of relational databases and essential for effective data man
 - Writing advanced **queries** (e.g., joins, subqueries)  
 - Optimizing performance with **indexing**  
 - Building **ETL pipelines** for data warehousing
+
+---
+## 🐍 Python  
+
+**✨ Overview:**  
+Python is my go-to for everything from quick scripts to full-scale data pipelines and machine learning models.
+
+### 🚀 **Skills & Projects**  
+- **Data Analysis** with [Pandas](https://pandas.pydata.org/) and [NumPy](https://numpy.org/)  
+- **Machine Learning** with [scikit-learn](https://scikit-learn.org/) and [TensorFlow](https://www.tensorflow.org/)  
+- **Automation Scripts** for productivity  
+- **Web Development** with [Flask](https://flask.palletsprojects.com/) and [Django](https://www.djangoproject.com/)
+
+---
+
+<details>
+<summary>📘 **Power Bi Topics** (Click to Expand)</summary>
+
+<details>
+<summary>Basics</summary>
 
 ---
 
